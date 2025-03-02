@@ -5,7 +5,7 @@ This Power BI dashboard analyzes customer churn for a fictitious telecom provide
 ## Data Source
 Dataset: Databel - Data (CSV)
 
-## Source: [DataCamp] (https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-power-bi)
+Source: [DataCamp] (https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-power-bi)
 
 ## Key Insights:
 - Churn Rate: 26.86% and 1,796 customers have left Databel.
